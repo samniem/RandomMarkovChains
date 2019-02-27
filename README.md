@@ -1,2 +1,3 @@
-![](pic/pic1.png) 
-![](pic/pic2.png) 
+![](pic/markov1.png) 
+![](pic/markov2.png) 
+![](pic/markov3.png) 
